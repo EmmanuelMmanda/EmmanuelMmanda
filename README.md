@@ -7,8 +7,9 @@ Web and Systems Developer
 A Tanzanian Tech Enthusiast and Programmer, Eager to learn and discover new Technologies.
 
 * 🌍  I'm based in Tanzania
+* 🖥️  See my portfolio at [Portfolio](http://github.com/EmmanuelMmanda/#port)
 * ✉️  You can contact me at [movirmy@gmail.com](mailto:movirmy@gmail.com )
-* 🚀  I'm currently working on [React Apps](http://.com)
+* 🚀  I'm currently working on [React Apps](http://github.com/EmmanuelMmanda/React-JS-Expense-Tracker-App)
 * 🧠  I'm learning React Js
 * 🤝  I'm open to collaborating on Web Developement Projects
 * ⚡  I play Musical instruments for fun ie. Piano and trumpets
@@ -19,7 +20,7 @@ src="https://img.shields.io/twitter/follow/Immaginativetz?logo=twitter&style=for
 
 ### Skills
 
-<p align="left">
+<p align="left" id="port">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
