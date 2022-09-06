@@ -14,13 +14,13 @@ A Tanzanian Tech Enthusiast and Programmer, Eager to learn and discover new Tech
 * 🤝  I'm open to collaborating on Web Developement Projects
 * ⚡  I play Musical instruments for fun ie. Piano and trumpets
 
-<a href="https://www.twitter.com/Immaginativetz" target="_blank" rel="noreferrer"><img
+<a id="port" href="https://www.twitter.com/Immaginativetz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Immaginativetz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
 
-<p align="left" id="port">
+<p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
