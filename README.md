@@ -7,7 +7,7 @@ Web and Systems Developer
 A Tanzanian Tech Enthusiast and Programmer, Eager to learn and discover new Technologies.
 
 * 🌍  I'm based in Tanzania
-* 🖥️  See my portfolio at [Portfolio](http://github.com/EmmanuelMmanda/#port)
+* 🖥️  See my portfolio at [Portfolio](#port)
 * ✉️  You can contact me at [movirmy@gmail.com](mailto:movirmy@gmail.com )
 * 🚀  I'm currently working on [React Apps](http://github.com/EmmanuelMmanda/React-JS-Expense-Tracker-App)
 * 🧠  I'm learning React Js
