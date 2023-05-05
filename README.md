@@ -39,13 +39,12 @@ src="https://img.shields.io/twitter/follow/Immaginativetz?logo=twitter&style=for
 <p align="left"> <a href="https://www.github.com/EmmanuelMmanda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/Ajiramedia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Immaginativetz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/Ajiramedia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
-![image]({[BadgeURLHere](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)})
-![image]({[BadgeURLHere](https://github-profile-trophy.vercel.app/?username={EmmanuelMmanda})})
-![image]({[BadgeURLHere](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)})
-![image]({[BadgeURLHere](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)})
-![image]({[BadgeURLHere](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)})
-![image]({[BadgeURLHere](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)})
-![image]({[BadgeURLHere](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)})
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+<img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 <b>My GitHub Stats</b>
 
