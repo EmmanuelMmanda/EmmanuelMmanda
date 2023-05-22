@@ -8,9 +8,9 @@ A Tanzanian Tech Enthusiast and Programmer, Eager to learn and discover new Tech
 
 * 🌍  I'm based in Tanzania
 * 🖥️  See my portfolio at [Portfolio](#port)
-* ✉️  You can contact me at [movirmy@gmail.com](mailto:luneya17@gmail.com )
-* 🚀  I'm currently working on [React Apps](http://github.com/EmmanuelMmanda/React-JS-Expense-Tracker-App)
-* 🧠  I'm learning React Js
+* ✉️  You can contact me at [luneya17@gmail.com](mailto:luneya17@gmail.com )
+* 🚀  I'm currently working on [USSD and SMS, Payment Products] (http://github.com/EmmanuelMmanda/)
+* 🧠  I'm learning  Django ( DJango Rest Franmework )
 * 🤝  I'm open to collaborating on Web Developement Projects
 * ⚡  I play Musical instruments for fun ie. Piano and trumpets
 
