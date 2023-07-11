@@ -7,7 +7,7 @@ Web and Systems Developer
 A Tanzanian Tech Enthusiast and Programmer, Eager to learn and discover new Technologies.
 
 * 🌍  I'm based in Tanzania
-* 🖥️  See my portfolio at [Portfolio](#port)
+* 🖥️  See my portfolio at [Portfolio](https://mmanda.vercel.app)
 * ✉️  You can contact me at [luneya17@gmail.com](mailto:luneya17@gmail.com )
 * 🚀  I'm currently working on [USSD and SMS, Payment Products] (http://github.com/EmmanuelMmanda/)
 * 🧠  I'm learning  Django ( DJango Rest Franmework )
