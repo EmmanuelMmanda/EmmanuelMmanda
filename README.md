@@ -10,8 +10,8 @@ A Tanzanian Tech Enthusiast and Programmer, Eager to learn and discover new Tech
 * 🖥️  See my portfolio at [Portfolio](https://mmanda.vercel.app)
 * ✉️  You can contact me at [luneya17@gmail.com](mailto:luneya17@gmail.com )
 * 🚀  I'm currently working on [USSD and SMS, Payment Products] (http://github.com/EmmanuelMmanda/)
-* 🧠  I'm learning  Django ( DJango Rest Framework )
-* 🤝  I'm open to collaborating on Web Developement Projects
+* 🧠  I'm learning  Issabel Multitenant PBX ( Asterisk * &  Elastix PBX )
+* 🤝  I'm open to collaborating on projects
 * ⚡  I play Musical instruments for fun ie. Piano and trumpets
 
 <a id="port" href="https://www.twitter.com/Immaginativetz" target="_blank" rel="noreferrer"><img
